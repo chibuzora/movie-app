@@ -1,0 +1,8 @@
+{
+  "name": "MovieApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "2975a263"
+}
